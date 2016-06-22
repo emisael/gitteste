@@ -1,3 +1,3 @@
-public FatorialRecursivo {
+public class FatorialRecursivo {
 	
 }
